@@ -99,11 +99,11 @@ public class App {
         String jmsProviderUrlAdmin = System.getProperty("java.naming.provider.url.admin");
 
         if (jmsProviderUrlService == null || jmsProviderUrlService.trim().isEmpty()) {
-            jmsProviderUrlService = "tcp://192.168.25.102:3035/";
+            jmsProviderUrlService = "tcp://localhost:3035/";
         }
 
         if (jmsProviderUrlAdmin == null || jmsProviderUrlAdmin.trim().isEmpty()) {
-            jmsProviderUrlAdmin = "tcp://192.168.25.102:3035/";
+            jmsProviderUrlAdmin = "tcp://localhost:3035/";
         }
 
         Hashtable<String, String> properties = new Hashtable<>();

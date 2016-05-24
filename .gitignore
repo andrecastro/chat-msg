@@ -3,7 +3,14 @@
 
 *.iml
 
+chat-msg-admin/src/main/java/br/edu/ifce/ppd/ws/*
+
 chat-msg-admin/.idea/*
 chat-msg-core/.idea/*
 chat-msg-ui/.idea/*
 chat-msg-webservice/.idea/*
+
+chat-msg-ui/target/
+chat-msg-admin/target/
+chat-msg-webservice/target/
+chat-msg-core/target/
