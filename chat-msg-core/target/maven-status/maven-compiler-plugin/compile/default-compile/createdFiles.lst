@@ -1,0 +1,9 @@
+br/edu/ifce/ppd/chat/repository/ChatRepository.class
+br/edu/ifce/ppd/chat/helper/Lookup.class
+br/edu/ifce/ppd/chat/models/UserWrapper.class
+br/edu/ifce/ppd/chat/repository/UserRepository.class
+br/edu/ifce/ppd/chat/models/User.class
+br/edu/ifce/ppd/chat/helper/SpaceWrapper.class
+br/edu/ifce/ppd/chat/helper/UserLocationHelper.class
+br/edu/ifce/ppd/chat/models/Chat.class
+br/edu/ifce/ppd/chat/models/Message.class

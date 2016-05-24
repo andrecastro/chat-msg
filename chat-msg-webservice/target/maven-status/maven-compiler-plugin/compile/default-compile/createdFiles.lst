@@ -1,0 +1,5 @@
+br/edu/ifce/ppd/chat/service/impl/ChatServiceImpl.class
+br/edu/ifce/ppd/chat/service/impl/UserServiceImpl.class
+br/edu/ifce/ppd/chat/service/ChatService.class
+br/edu/ifce/ppd/chat/service/UserService.class
+br/edu/ifce/ppd/chat/App.class
